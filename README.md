@@ -1,4 +1,4 @@
-# Macro analysis: ECB key rate vs Eurozone inflation (2015-2026) 
+# Macro analysis: ECB key rate vs Eurozone inflation (2016-2026) 
 Analysis of the relationship between ECB monetary policy and inflation dynamics in the EuroZone, using Python and FRED macro economics data  
 
 ## Data sources: 
